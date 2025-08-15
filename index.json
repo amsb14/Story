@@ -1,5 +1,5 @@
 {
-  "latest": "https://cdn.jsdelivr.net/gh/amsb14/Story@<COMMIT_SHA>/chapter1.txt",
-  "version": "<COMMIT_SHA>",
+  "latest": "https://cdn.jsdelivr.net/gh/amsb14/Story@b5e4bbe/chapter1.txt",
+  "version": "b5e4bbe",
   "updated_at": "2025-08-15T10:00:00Z"
 }
